@@ -1,0 +1,17 @@
+#Whole{
+    border: none;
+    display: grid;
+    border-left: 20px;
+
+}
+
+.form{
+    display: grid;
+    grid-template-columns: 50% 50%;
+    border:none;
+    padding-top: 100px;
+}
+#General{
+    display: flex;
+    grid-template-rows: rows;
+}
